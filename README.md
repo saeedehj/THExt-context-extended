@@ -1,4 +1,4 @@
-# Abstractive Context Summarization for News Highlights Extraction
+# Enhancing News Highlights Extraction through Abstractive Context 
 
 
 This repository contains the code for our adaptation of the paper [Transformer-based Highlights Extraction from scientific papers - THExt](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006931), to the domain of news articles (cnn-dailymail, xsum). 
